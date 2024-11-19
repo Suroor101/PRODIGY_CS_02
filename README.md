@@ -26,8 +26,8 @@ This Python program allows you to **encrypt** and **decrypt images** using a pix
 ## **How to Run the Program**  
 1. **Clone or Download the Repository**  
    ```bash
-   git clone <repository-link>
-   cd <repository-folder>
+   git clone https://github.com/Suroor101/PRODIGY_CS_02.git
+   cd PRODIGY_CS_02
    ```
 
 2. **Install Required Libraries**  
